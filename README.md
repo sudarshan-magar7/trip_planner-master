@@ -1,6 +1,5 @@
 # trip_planner
-
-A new Flutter project.
+The Itinerary Planner is a cross-platform mobile application built using Flutter that allows users to create, manage, and share their travel itineraries seamlessly. Designed for travelers, tourists, and trip organizers, the app helps users plan their journeys day-by-day with detailed activities, locations, and time slots.
 
 ## Getting Started
 
